@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1533665221 source:e:\codeblocks projects\fileshredder\main.cpp
+	<iostream>
+	<fstream>
+	<unistd.h>
+	<stdint.h>
+	<stdio.h>
+	<cstring>
+	<chrono>
+	<sys/stat.h>
+
